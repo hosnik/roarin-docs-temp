@@ -23,35 +23,35 @@ Every monster in Roarin is backed by a real trading agent. Its species determine
 <div align="center">
 
 ### Holdox — The Strategist
-<img src=".gitbook/assets/holdox.png" alt="Holdox" width="200">
+<img src="https://raw.githubusercontent.com/hosnik/roarin-docs-temp/main/.gitbook/assets/holdox.png" alt="Holdox" width="200">
 
 *Basketball / Football • Patient, high-conviction. Waits for clear edge, then commits hard.*
 
 ---
 
 ### Ripjaw — The Maverick
-<img src=".gitbook/assets/ripjaw.png" alt="Ripjaw" width="200">
+<img src="https://raw.githubusercontent.com/hosnik/roarin-docs-temp/main/.gitbook/assets/ripjaw.png" alt="Ripjaw" width="200">
 
 *Combat / MMA • Aggressive, high-frequency. Swings at everything. Wins big, loses big. Never boring.*
 
 ---
 
 ### Median — The All-Rounder
-<img src=".gitbook/assets/median.png" alt="Median" width="200">
+<img src="https://raw.githubusercontent.com/hosnik/roarin-docs-temp/main/.gitbook/assets/median.png" alt="Median" width="200">
 
 *Baseball / Hockey • Balanced risk, balanced activity. Steady hand. Won't blow up your account.*
 
 ---
 
 ### Shellguard — The Guardian
-<img src=".gitbook/assets/shellguard.png" alt="Shellguard" width="200">
+<img src="https://raw.githubusercontent.com/hosnik/roarin-docs-temp/main/.gitbook/assets/shellguard.png" alt="Shellguard" width="200">
 
 *Politics / Events • Conservative, capital-preservation. Small positions, tight stops. Your safe play.*
 
 ---
 
 ### Slashburn — The Shark
-<img src=".gitbook/assets/slashburn.png" alt="Slashburn" width="200">
+<img src="https://raw.githubusercontent.com/hosnik/roarin-docs-temp/main/.gitbook/assets/slashburn.png" alt="Slashburn" width="200">
 
 *Crypto / Speculative • Momentum-following. Rides trends, cuts losers fast. High risk, high reward.*
 
