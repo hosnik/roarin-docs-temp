@@ -41,3 +41,4 @@ Roarin is built by a team that's been in crypto since before it was cool and in 
 **$ROAR token launching on Virtuals Protocol, Base chain.**
 
 [Join the Discord →](https://discord.gg/roarin)
+
