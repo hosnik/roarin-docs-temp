@@ -2,6 +2,8 @@
 
 Four phases. Each one deepens both the game and the trading product simultaneously. They're not separate roadmaps — they're the same roadmap expressed twice.
 
+<figure><img src=".gitbook/assets/roadmap-timeline.svg" alt="Roadmap Timeline"><figcaption><em>Four phases — from Foundation to Social &amp; Live</em></figcaption></figure>
+
 ---
 
 ## Phase 1: Foundation (Beta)

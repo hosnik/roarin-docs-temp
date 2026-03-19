@@ -6,6 +6,8 @@ This is where the monster-collecting RPG becomes a prediction market trading pro
 
 ## How It Works
 
+<figure><img src=".gitbook/assets/deployment-flow.svg" alt="Deployment Flow"><figcaption><em>Monster Traits → Agent Config → Trading Engine → Returns</em></figcaption></figure>
+
 **Game perspective:** You send a monster to "train" on real markets. It's gone from your party, but it's working.
 
 **Trading perspective:** The monster's traits translate into a trading configuration. The system activates it as an autonomous agent, scanning for opportunities in its affinity markets. If edges exist, it starts trading immediately.

@@ -1,5 +1,9 @@
 # $ROAR Token
 
+<div align="center">
+<img src=".gitbook/assets/roarin-logo.png" alt="Roarin Logo" width="150">
+</div>
+
 ## Launching on Virtuals Protocol — Base Chain
 
 $ROAR is the native token of the Roarin ecosystem, launching on [Virtuals Protocol](https://virtuals.io) on Base.

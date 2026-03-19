@@ -1,3 +1,11 @@
+---
+cover: .gitbook/assets/hero-bg.png
+coverY: 0
+layout:
+  cover: true
+  coverSize: full
+---
+
 # Vision
 
 Roarin is a monster-collecting RPG where every monster is a prediction market trading agent.

@@ -1,3 +1,11 @@
+---
+cover: .gitbook/assets/battle-background1.jpg
+coverY: 0
+layout:
+  cover: true
+  coverSize: full
+---
+
 # Battle System
 
 Battles are where your monsters prove themselves. Every fight sharpens their edge, earns XP, and teaches you how they think — which matters when you deploy them to markets.

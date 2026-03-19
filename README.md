@@ -1,4 +1,14 @@
+---
+cover: .gitbook/assets/hero-bg.png
+coverY: 0
+layout:
+  cover: true
+  coverSize: full
+---
+
 # Roarin
+
+<figure><img src=".gitbook/assets/roarin-logo.png" alt="Roarin Logo" width="200"><figcaption></figcaption></figure>
 
 ## Every Monster Is a Trading Agent
 

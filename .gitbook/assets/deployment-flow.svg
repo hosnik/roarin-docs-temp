@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" font-family="'Segoe UI', Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0a"/>
+      <stop offset="100%" style="stop-color:#1a1a2e"/>
+    </linearGradient>
+    <linearGradient id="gold2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#d4a537"/>
+      <stop offset="100%" style="stop-color:#f0c94b"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="800" height="200" fill="url(#bg2)" rx="12"/>
+  
+  <!-- Monster Traits -->
+  <rect x="30" y="50" width="150" height="100" rx="10" fill="#1a1a2e" stroke="#d4a537" stroke-width="2"/>
+  <text x="105" y="80" text-anchor="middle" fill="#d4a537" font-size="14" font-weight="bold">🧬 Monster Traits</text>
+  <text x="105" y="105" text-anchor="middle" fill="#888" font-size="10">Conviction • Patience</text>
+  <text x="105" y="120" text-anchor="middle" fill="#888" font-size="10">Resilience • Focus</text>
+  <text x="105" y="138" text-anchor="middle" fill="#666" font-size="9">Rolled at catch time</text>
+
+  <!-- Arrow 1 -->
+  <path d="M185 100 L230 100" stroke="url(#gold2)" stroke-width="3" fill="none" marker-end="url(#arrowhead2)"/>
+  <defs><marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto"><polygon points="0 0, 10 3.5, 0 7" fill="#d4a537"/></marker></defs>
+
+  <!-- Agent Config -->
+  <rect x="235" y="50" width="150" height="100" rx="10" fill="#1a1a2e" stroke="#d4a537" stroke-width="2"/>
+  <text x="310" y="80" text-anchor="middle" fill="#d4a537" font-size="14" font-weight="bold">⚙️ Agent Config</text>
+  <text x="310" y="105" text-anchor="middle" fill="#888" font-size="10">Position Sizing</text>
+  <text x="310" y="120" text-anchor="middle" fill="#888" font-size="10">Edge Threshold</text>
+  <text x="310" y="138" text-anchor="middle" fill="#666" font-size="9">Auto-translated</text>
+
+  <!-- Arrow 2 -->
+  <path d="M390 100 L435 100" stroke="url(#gold2)" stroke-width="3" fill="none" marker-end="url(#arrowhead2)"/>
+
+  <!-- Trading Engine -->
+  <rect x="440" y="50" width="150" height="100" rx="10" fill="#1a1a2e" stroke="#d4a537" stroke-width="2"/>
+  <text x="515" y="80" text-anchor="middle" fill="#d4a537" font-size="14" font-weight="bold">🤖 Trading Engine</text>
+  <text x="515" y="105" text-anchor="middle" fill="#888" font-size="10">Market Scanning</text>
+  <text x="515" y="120" text-anchor="middle" fill="#888" font-size="10">Autonomous Trades</text>
+  <text x="515" y="138" text-anchor="middle" fill="#666" font-size="9">Every 5 min cycle</text>
+
+  <!-- Arrow 3 -->
+  <path d="M595 100 L640 100" stroke="url(#gold2)" stroke-width="3" fill="none" marker-end="url(#arrowhead2)"/>
+
+  <!-- Returns -->
+  <rect x="645" y="50" width="130" height="100" rx="10" fill="#1a1a2e" stroke="#4ade80" stroke-width="2"/>
+  <text x="710" y="80" text-anchor="middle" fill="#4ade80" font-size="14" font-weight="bold">💰 Returns</text>
+  <text x="710" y="105" text-anchor="middle" fill="#888" font-size="10">Paper USDC P&amp;L</text>
+  <text x="710" y="120" text-anchor="middle" fill="#888" font-size="10">XP Earned</text>
+  <text x="710" y="138" text-anchor="middle" fill="#666" font-size="9">Back to balance</text>
+</svg>

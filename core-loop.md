@@ -1,8 +1,6 @@
 # Core Loop
 
-```
-EXPLORE → CATCH → BATTLE → LEVEL UP → DEPLOY → EARN → REPEAT
-```
+<figure><img src=".gitbook/assets/core-loop-diagram.svg" alt="Core Loop Diagram"><figcaption><em>EXPLORE → CATCH → BATTLE → LEVEL UP → DEPLOY → EARN → REPEAT</em></figcaption></figure>
 
 Every step in the loop feeds the next. Exploration finds new monsters. Catching expands your roster. Battling levels them up. Leveling unlocks new capabilities. Deployment puts them to work on real markets. Earnings fund more exploration and deployment. The loop never ends — it just gets more rewarding.
 

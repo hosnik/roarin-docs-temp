@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" font-family="'Segoe UI', Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0a"/>
+      <stop offset="100%" style="stop-color:#1a1a2e"/>
+    </linearGradient>
+    <linearGradient id="gold3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#d4a537"/>
+      <stop offset="100%" style="stop-color:#f0c94b"/>
+    </linearGradient>
+    <filter id="glow3">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  
+  <rect width="600" height="600" fill="url(#bg3)" rx="12"/>
+  
+  <!-- Center circle -->
+  <circle cx="300" cy="300" r="60" fill="none" stroke="#d4a537" stroke-width="1" stroke-dasharray="4,4" opacity="0.3"/>
+  <text x="300" y="295" text-anchor="middle" fill="#d4a537" font-size="16" font-weight="bold" filter="url(#glow3)">ROARIN</text>
+  <text x="300" y="315" text-anchor="middle" fill="#888" font-size="10">CORE LOOP</text>
+
+  <!-- Circular arrow path (implied by nodes) -->
+  <circle cx="300" cy="300" r="190" fill="none" stroke="#d4a537" stroke-width="1" opacity="0.15"/>
+
+  <!-- EXPLORE - top -->
+  <rect x="240" y="65" width="120" height="50" rx="25" fill="#1a1a2e" stroke="#d4a537" stroke-width="2"/>
+  <text x="300" y="96" text-anchor="middle" fill="#d4a537" font-size="14" font-weight="bold">🗺️ EXPLORE</text>
+
+  <!-- CATCH - top right -->
+  <rect x="433" y="140" width="110" height="50" rx="25" fill="#1a1a2e" stroke="#d4a537" stroke-width="2"/>
+  <text x="488" y="171" text-anchor="middle" fill="#d4a537" font-size="14" font-weight="bold">🎯 CATCH</text>
+
+  <!-- BATTLE - right -->
+  <rect x="443" y="275" width="120" height="50" rx="25" fill="#1a1a2e" stroke="#d4a537" stroke-width="2"/>
+  <text x="503" y="306" text-anchor="middle" fill="#d4a537" font-size="14" font-weight="bold">⚔️ BATTLE</text>
+
+  <!-- LEVEL UP - bottom right -->
+  <rect x="390" y="410" width="130" height="50" rx="25" fill="#1a1a2e" stroke="#d4a537" stroke-width="2"/>
+  <text x="455" y="441" text-anchor="middle" fill="#d4a537" font-size="14" font-weight="bold">⬆️ LEVEL UP</text>
+
+  <!-- DEPLOY - bottom left -->
+  <rect x="80" y="410" width="130" height="50" rx="25" fill="#1a1a2e" stroke="#4ade80" stroke-width="2"/>
+  <text x="145" y="441" text-anchor="middle" fill="#4ade80" font-size="14" font-weight="bold">🚀 DEPLOY</text>
+
+  <!-- EARN - left -->
+  <rect x="37" y="275" width="110" height="50" rx="25" fill="#1a1a2e" stroke="#4ade80" stroke-width="2"/>
+  <text x="92" y="306" text-anchor="middle" fill="#4ade80" font-size="14" font-weight="bold">💰 EARN</text>
+
+  <!-- REPEAT - top left (connects back) -->
+  <rect x="57" y="140" width="120" height="50" rx="25" fill="#1a1a2e" stroke="#d4a537" stroke-width="2"/>
+  <text x="117" y="171" text-anchor="middle" fill="#d4a537" font-size="14" font-weight="bold">🔄 REPEAT</text>
+
+  <!-- Arrows between nodes -->
+  <!-- Explore → Catch -->
+  <path d="M360 95 Q400 100 433 150" stroke="#d4a537" stroke-width="2" fill="none" marker-end="url(#arr3)"/>
+  <!-- Catch → Battle -->
+  <path d="M510 190 Q520 230 510 275" stroke="#d4a537" stroke-width="2" fill="none" marker-end="url(#arr3)"/>
+  <!-- Battle → Level Up -->
+  <path d="M520 325 Q510 370 500 410" stroke="#d4a537" stroke-width="2" fill="none" marker-end="url(#arr3)"/>
+  <!-- Level Up → Deploy -->
+  <path d="M390 440 Q300 470 210 440" stroke="#d4a537" stroke-width="2" fill="none" marker-end="url(#arr3)"/>
+  <!-- Deploy → Earn -->
+  <path d="M110 410 Q95 370 92 325" stroke="#4ade80" stroke-width="2" fill="none" marker-end="url(#arr3g)"/>
+  <!-- Earn → Repeat -->
+  <path d="M92 275 Q95 220 100 190" stroke="#4ade80" stroke-width="2" fill="none" marker-end="url(#arr3g)"/>
+  <!-- Repeat → Explore -->
+  <path d="M177 150 Q220 110 240 95" stroke="#d4a537" stroke-width="2" fill="none" marker-end="url(#arr3)"/>
+  
+  <defs>
+    <marker id="arr3" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#d4a537"/></marker>
+    <marker id="arr3g" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#4ade80"/></marker>
+  </defs>
+</svg>
