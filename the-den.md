@@ -8,7 +8,7 @@ The Den is where the real action happens. It's a building in the game world — 
 
 Four stations, each serving a different function in your trading operation:
 
-<figure><img src="https://raw.githubusercontent.com/hosnik/roarin-docs-temp/main/.gitbook/assets/den-stations.svg" alt="The Den — Four Stations"><figcaption><em>The Den command center: Deploy Desk, The Board, Recall Handler, and Market Ticker</em></figcaption></figure>
+<figure><img src=".gitbook/assets/den-stations.svg" alt="The Den — Four Stations"><figcaption><em>The Den command center: Deploy Desk, The Board, Recall Handler, and Market Ticker</em></figcaption></figure>
 
 ### Deploy Desk
 

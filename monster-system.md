@@ -10,35 +10,35 @@ Every monster in Roarin is backed by a real trading agent. Its species determine
 
 ### Holdox — The Strategist
 
-![Holdox](https://raw.githubusercontent.com/hosnik/roarin-docs-temp/main/.gitbook/assets/holdox.png)
+![Holdox](.gitbook/assets/holdox.png)
 
 **Market Affinity:** Basketball / Football
 **How It Trades:** Patient, high-conviction. Waits for clear edge before committing. Goes big when it sees the play.
 
 ### Ripjaw — The Maverick
 
-![Ripjaw](https://raw.githubusercontent.com/hosnik/roarin-docs-temp/main/.gitbook/assets/ripjaw.png)
+![Ripjaw](.gitbook/assets/ripjaw.png)
 
 **Market Affinity:** Combat / MMA
 **How It Trades:** Aggressive, high-frequency. Takes smaller edges but trades often. Never sits still.
 
 ### Median — The All-Rounder
 
-![Median](https://raw.githubusercontent.com/hosnik/roarin-docs-temp/main/.gitbook/assets/median.png)
+![Median](.gitbook/assets/median.png)
 
 **Market Affinity:** Baseball / Hockey
 **How It Trades:** Balanced risk, balanced activity. Won't make you rich overnight, won't blow up your account either.
 
 ### Shellguard — The Guardian
 
-![Shellguard](https://raw.githubusercontent.com/hosnik/roarin-docs-temp/main/.gitbook/assets/shellguard.png)
+![Shellguard](.gitbook/assets/shellguard.png)
 
 **Market Affinity:** Politics / Events
 **How It Trades:** Conservative, capital-preservation focused. Small position sizes, tight stops. Your safe play.
 
 ### Slashburn — The Shark
 
-![Slashburn](https://raw.githubusercontent.com/hosnik/roarin-docs-temp/main/.gitbook/assets/slashburn.png)
+![Slashburn](.gitbook/assets/slashburn.png)
 
 **Market Affinity:** Crypto / Speculative
 **How It Trades:** Momentum-following. Rides trends, cuts losers fast. High risk, high reward.

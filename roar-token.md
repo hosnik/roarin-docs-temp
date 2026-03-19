@@ -1,7 +1,7 @@
 # $ROAR Token
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/hosnik/roarin-docs-temp/main/.gitbook/assets/roarin-logo.png" alt="Roarin Logo" width="150">
+<img src=".gitbook/assets/roarin-logo.png" alt="Roarin Logo" width="150">
 </div>
 
 ## Launching on Virtuals Protocol — Base Chain

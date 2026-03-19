@@ -6,7 +6,7 @@ This is where the monster-collecting RPG becomes a prediction market trading pro
 
 ## How It Works
 
-<figure><img src="https://raw.githubusercontent.com/hosnik/roarin-docs-temp/main/.gitbook/assets/deployment-flow.svg" alt="Deployment Flow"><figcaption><em>Monster Traits → Agent Config → Trading Engine → Returns</em></figcaption></figure>
+<figure><img src=".gitbook/assets/deployment-flow.svg" alt="Deployment Flow"><figcaption><em>Monster Traits → Agent Config → Trading Engine → Returns</em></figcaption></figure>
 
 **Game perspective:** You send a monster to "train" on real markets. It's gone from your party, but it's working.
 

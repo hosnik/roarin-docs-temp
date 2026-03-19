@@ -1,5 +1,5 @@
 ---
-cover: https://raw.githubusercontent.com/hosnik/roarin-docs-temp/main/.gitbook/assets/battle-background1.jpg
+cover: .gitbook/assets/battle-background1.jpg
 coverY: 0
 layout:
   cover: true

@@ -1,5 +1,5 @@
 ---
-cover: https://raw.githubusercontent.com/hosnik/roarin-docs-temp/main/.gitbook/assets/hero-bg.png
+cover: .gitbook/assets/hero-bg.png
 coverY: 0
 layout:
   cover: true

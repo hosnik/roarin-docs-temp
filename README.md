@@ -1,5 +1,5 @@
 ---
-cover: https://raw.githubusercontent.com/hosnik/roarin-docs-temp/main/.gitbook/assets/hero-bg.png
+cover: .gitbook/assets/hero-bg.png
 coverY: 0
 layout:
   cover: true
@@ -8,7 +8,7 @@ layout:
 
 # Roarin
 
-<figure><img src="https://raw.githubusercontent.com/hosnik/roarin-docs-temp/main/.gitbook/assets/roarin-logo.png" alt="Roarin Logo" width="200"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/roarin-logo.png" alt="Roarin Logo" width="200"><figcaption></figcaption></figure>
 
 ## Every Monster Is a Trading Agent
 
